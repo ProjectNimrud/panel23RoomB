@@ -4,6 +4,8 @@
 
 # Panel 23 room B, NW Palace Nimrud
 
+![](Other/Cameras/panel23.png)
+
 This repository contains source data to recreate a 3D model from the British Museum's Assyrian galleries. The file structure is as follows:
 
 ```
